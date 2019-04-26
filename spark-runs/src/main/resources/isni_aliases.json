@@ -1,0 +1,609 @@
+[
+  {
+    "isni": "0000000404337444",
+    "aliases": [
+      "Kansas University Medical Center"
+    ]
+  },
+  {
+    "isni": "0000000106862734",
+    "aliases": [
+      "St Michael's Hospital", "St. Michael's Hospital"
+    ]
+  },
+  {
+    "isni": "0000000122923357",
+    "aliases": [
+      "Université de Montréal", "University of Montreal"
+    ]
+  },
+  {
+    "isni": "0000000419368390",
+    "aliases": [
+      "Université Laval"
+    ]
+  },
+  {
+    "isni": "0000000101589062",
+    "aliases": [
+      "Mount Sinai St. Luke's"
+    ]
+  },
+  {
+    "isni": "0000000106932202",
+    "aliases": [
+      "SUNY Downstate Medical Center"
+    ]
+  },
+  {
+    "isni": "0000000403882248",
+    "aliases": [
+      "Lurie Children's Hospital of Chicago"
+    ]
+  },
+  {
+    "isni": "0000000122314551",
+    "aliases": [
+      "Lawrence Berkeley National Laboratory"
+    ]
+  },
+  {
+    "isni": "0000000404821586",
+    "aliases": [
+      "Children's National Medical Center"
+    ]
+  },
+  {
+    "isni": "0000000404205521",
+    "aliases": [
+      "Michael E DeBakey Veteran Affairs Medical Center"
+    ]
+  },
+  {
+    "isni": "4505042736591914",
+    "aliases": [
+      "Joint Center for Quantum Information and Computer Science"
+    ]
+  },
+  {
+    "isni": "0000000106944940",
+    "aliases": [
+      "Virginia Polytechnic Institute & State University"
+    ]
+  },
+  {
+    "isni": "000000010676005X",
+    "aliases": [
+      "Sloan-Kettering Institute"
+    ]
+  },
+  {
+    "isni": "0000000098915233",
+    "aliases": [
+      "Moffitt Cancer Center", "Moffitt Cancer Center and Research Institute"
+    ]
+  },
+  {
+    "isni": "000000010675176X",
+    "aliases": [
+      "UNC Charlotte"
+    ]
+  },
+  {
+    "isni": "0000000085030807",
+    "aliases": [
+      "Birmingham Southern College"
+    ]
+  },
+  {
+    "isni": "0000000106664455",
+    "aliases": [
+      "United States Army Medical Research Institute of Infectious Diseases"
+    ]
+  },
+  {
+    "isni": "0000000406143002",
+    "aliases": [
+      "Robert Wood Johnson Medical School"
+    ]
+  },
+  {
+    "isni": "0000000403676647",
+    "aliases": [
+      "UNC School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000106588691",
+    "aliases": [
+      "Hormel Institute"
+    ]
+  },
+  {
+    "isni": "000000010228085X",
+    "aliases": [
+      "Winthrop-University Hospital", "Winthrop University Hospital"
+    ]
+  },
+  {
+    "isni": "0000000104288054",
+    "aliases": [
+      "James Buchanan Brady Urological Institute", "Brady Urological Institute"
+    ]
+  },
+  {
+    "isni": "000000041937132X",
+    "aliases": [
+      "Cummings School of Veterinary Medicine"
+    ]
+  },
+  {
+    "isni": "000000040497518X",
+    "aliases": [
+      "Johns Hopkins Berman Institute of Bioethics"
+    ]
+  },
+  {
+    "isni": "0000000112505784",
+    "aliases": [
+      "Institute Of Transpersonal Psychology"
+    ]
+  },
+  {
+    "isni": "0000000405864713",
+    "aliases": [
+      "Lewis School of Nursing"
+    ]
+  },
+  {
+    "isni": "0000000404900540",
+    "aliases": [
+      "Skirball Institute of Molecular Medicine"
+    ]
+  },
+  {
+    "isni": "0000000459136308",
+    "aliases": [
+      "Baylor Research Institute"
+    ]
+  },
+  {
+    "isni": "0000000403679012",
+    "aliases": [
+      "Jefferson Medical College"
+    ]
+  },
+  {
+    "isni": "000000045910332X",
+    "aliases": [
+      "Banner Alzheimer's Institute"
+    ]
+  },
+  {
+    "isni": "0000000403679426",
+    "aliases": [
+      "Brown Medical School", "Alpert Medical School", "Warren Alpert Medical School", "Brown Alpert Medical School", "Brown University School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000121069910",
+    "aliases": [
+      "Dana-Farber Cancer Institute"
+    ]
+  },
+  {
+    "isni": "0000000098194835",
+    "aliases": [
+      "Yale School of Public Health"
+    ]
+  },
+  {
+    "isni": "0000000404718247",
+    "aliases": [
+      "Cedars Sinai Heart Institute"
+    ]
+  },
+  {
+    "isni": "0000000121529905",
+    "aliases": [
+      "Cedars Sinai Medical Center"
+    ]
+  },
+  {
+    "isni": "0000000122976811",
+    "aliases": [
+      "UCSF"
+    ]
+  },
+  {
+    "isni": "0000000403673171",
+    "aliases": [
+      "UCSF School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000417978304",
+    "aliases": [
+      "University of Miami Miller School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000110867837",
+    "aliases": [
+      "Dartmouth Medical School", "Geisel School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000404674993",
+    "aliases": [
+      "Baylor College of Dentistry"
+    ]
+  },
+  {
+    "isni": "0000000089541233",
+    "aliases": [
+      "Louisiana State University Health Science Center"
+    ]
+  },
+  {
+    "isni": "0000000405507281",
+    "aliases": [
+      "Georgia Health Sciences University"
+    ]
+  },
+  {
+    "isni": "0000000404885969",
+    "aliases": [
+      "Gillings School of Global Public Health"
+    ]
+  },
+  {
+    "isni": "0000000405904826",
+    "aliases": [
+      "Gillings School of Global Public Health"
+    ]
+  },
+  {
+    "isni": "0000000404865722",
+    "aliases": [
+      "Arthur A. Dugoni School of Dentistry", "Dugoni School of Dentistry"
+    ]
+  },
+  {
+    "isni": "0000000404875648",
+    "aliases": [
+      "UNC School of Dentistry"
+    ]
+  },
+  {
+    "isni": "0000000406289765",
+    "aliases": [
+      "UM School of Public Health", "University of Michigan-School of Public Health"
+    ]
+  },
+  {
+    "isni": "0000000403676321",
+    "aliases": [
+      "University of Missouri School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403679565",
+    "aliases": [
+      "Sanford School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403674190",
+    "aliases": [
+      "Northwestern Feinberg School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403887807",
+    "aliases": [
+      "Rosalind Franklin School of Medicine and Science"
+    ]
+  },
+  {
+    "isni": "0000000403738764",
+    "aliases": [
+      "John Hopkins University School of Medicine",
+      "Johns Hopkins School of Medicine",
+      "John Hopkins School of Medicine",
+      "Johns Hopkins Medical Institutions"
+    ]
+  },
+  {
+    "isni": "0000000419369852",
+    "aliases": [
+      "Washington University in St Louis School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403673139",
+    "aliases": [
+      "USC Keck School of Medicine", "Keck School of Medicine of USC", "Keck School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403677666",
+    "aliases": [
+      "Robert Wood Johnson School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000405153911",
+    "aliases": [
+      "Virginia Tech Carilion School of Medicine", "Carilion School of Medicine"
+    ]
+  },
+  {
+    "isni": "000000008802017X",
+    "aliases": [
+      "F Edward Hebert School of Medicine", "Uniformed Services University School of Medicine", "F Edward Hebert School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000089516652",
+    "aliases": [
+      "David Geffen School of Medicine", "UCLA School of Medicine", "Geffen School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403676444",
+    "aliases": [
+      "St. Louis University School of Medicine", "St Louis University School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000419369342",
+    "aliases": [
+      "St. Louis University", "St Louis University"
+    ]
+  },
+  {
+    "isni": "0000000404559784",
+    "aliases": [
+      "NYU Hospital for Joint Diseases"
+    ]
+  },
+  {
+    "isni": "0000000403678079",
+    "aliases": [
+      "NYU School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000404628399",
+    "aliases": [
+      "UCLA School of Public Health", "Fielding School of Public Health", "Jonathan and Karin Fielding School of Public Health"
+    ]
+  },
+  {
+    "isni": "0000000096842747",
+    "aliases": [
+      "SUNY Upstate Medical University"
+    ]
+  },
+  {
+    "isni": "000000040591635X",
+    "aliases": [
+      "University of Massachusetts Medical Center", "UMass Memorial Medical Center"
+    ]
+  },
+  {
+    "isni": "000000040433311X",
+    "aliases": [
+      "Penn Dental Medicine"
+    ]
+  },
+  {
+    "isni": "000000040521899X",
+    "aliases": [
+      "Perelman School of Medicine", "University of Pennsylvania School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000404786311",
+    "aliases": [
+      "U.S. Department of Agriculture"
+    ]
+  },
+  {
+    "isni": "0000000404141855",
+    "aliases": [
+      "University of Florida College of Nursing"
+    ]
+  },
+  {
+    "isni": "0000000404246075",
+    "aliases": [
+      "University of Florida College of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000096813540",
+    "aliases": [
+      "VAMC"
+    ]
+  },
+  {
+    "isni": "0000000419369908",
+    "aliases": [
+      "Pennsylvania State University College of Medicine", "Pennsylvania State College of Medicine"
+    ]
+  },
+  {
+    "isni": "000000009361970X",
+    "aliases": [
+      "MCPHS University", "Massachusetts College of Pharmacy & Health Sciences"
+    ]
+  },
+  {
+    "isni": "0000000406103932",
+    "aliases": [
+      "Oregon Health and Science University"
+    ]
+  },
+  {
+    "isni": "0000000097585690",
+    "aliases": [
+      "Oregon Health and Science University", "Oregon Health Science University", "Oregon Health Sciences University"
+    ]
+  },
+  {
+    "isni": "0000000419370394",
+    "aliases": [
+      "UConn Health Center", "University of Connecticut Health Center"
+    ]
+  },
+  {
+    "isni": "0000000105827160",
+    "aliases": [
+      "Leonard M Miller School of Medicine", "University of Miami Miller School of Medicine", "Miller School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000419369780",
+    "aliases": [
+      "Stanford School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000404105280",
+    "aliases": [
+      "Paul L. Foster School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000106507433",
+    "aliases": [
+      "Univerisy of Pittsburgh Medical Center"
+    ]
+  },
+  {
+    "isni": "0000000121941465",
+    "aliases": [
+      "Yale School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000403986215",
+    "aliases": [
+      "University of Kansas Medical Center School of Nursing"
+    ]
+  },
+  {
+    "isni": "0000000404387898",
+    "aliases": [
+      "City University of New York"
+    ]
+  },
+  {
+    "isni": "0000000419369860",
+    "aliases": [
+      "Wake Forest School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000106702351",
+    "aliases": [
+      "Mount Sinai School of Medicine", "Mt. Sinai School of Medicine"
+    ]
+  },
+  {
+    "isni": "0000000405201733",
+    "aliases": [
+      "Mailman School of Public Health"
+    ]
+  },
+  {
+    "isni": "0000000122849329",
+    "aliases": [
+      "Georgia Regents University"
+    ]
+  },
+  {
+    "isni": "0000000104911918",
+    "aliases": [
+      "University of Texas Medical School",
+      "University of Texas McGovern Medical School"
+    ]
+  },
+  {
+    "isni": "0000000121618908",
+    "aliases": [
+      "Eli Lilly and Company",
+      "Lilly USA LLC"
+    ]
+  },
+  {
+    "isni": "0000000122433366",
+    "aliases": [
+      "U.S. Food & Drug Administration",
+      "United States Food and Drug Administration"
+    ]
+  },
+  {
+    "isni": "0000000404231180",
+    "aliases": [ "New York Presbyterian Hospital", "Weill Cornell Medical Center" ]
+  },
+  {
+    "isni": "0000000122914776",
+    "aliases": [ "M.D. Anderson Cancer Center", "MD Anderson Cancer Center" ]
+  },
+  {
+    "isni": "0000000121791997",
+    "aliases": [ "Albert Einstein College of Medicine" ]
+  },
+  {
+    "isni": "0000000086884951",
+    "aliases": [ "UNC Eshelman School of Pharmacy" ]
+  },
+  {
+    "isni": "0000000403780882",
+    "aliases": [ "Harvard School of Medicine" ]
+  },
+  {
+    "isni": "0000000404626991",
+    "aliases": [ "Johns Hopkins Bloomberg School of Public Health" ]
+  },
+  {
+    "isni": "0000000121644508",
+    "aliases": [ "State University of New York at Binghamton" ]
+  },
+  {
+    "isni": "0000000122169681",
+    "aliases": [ "State University of New York at Stony Brook" ]
+  },
+  {
+    "isni": "0000000419369887",
+    "aliases": [ "State University of New York at Buffalo" ]
+  },
+  {
+    "isni": "0000000121797643",
+    "aliases": [ "Weill Cornell Medical College", "Weill Cornell Medicine" ]
+  },
+  {
+    "isni": "0000000089362606",
+    "aliases": [ "UMDNJ New Jersey Medical School" ]
+  },
+  {
+    "isni": "0000000405432603",
+    "aliases": [ "Institute for Myeloma & Bone Cancer Research" ]
+  },
+  {
+    "isni": "0000000121090664",
+    "aliases": [ "Harvard T.H. Chan School of Public Health", "Harvard School of Public Health" ]
+  },
+  {
+    "isni": "0000000405397211",
+    "aliases": [ "Collaborative Drug Discovery" ]
+  },
+  {
+    "isni": "0000000419369350",
+    "aliases": [ "Washington University" ]
+  }
+
+]

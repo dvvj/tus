@@ -1,0 +1,22 @@
+[
+  {
+    "parent" : {
+      "isni" : "0000000404015111",
+      "n" : "worcester|ma|us|umass memorial health care"
+    },
+    "children": [
+      "000000040591635X", "000000040503519X", "0000000405916261",
+      "0000000404729560",  "0000000459137888", "000000045913787X",
+      "0000000404524231", "0000000404551336"
+    ]
+  },
+  {
+    "parent" : {
+      "isni" : "0000000097846977",
+      "n" : "worcester|ma|us|university of massachusetts medical school"
+    },
+    "children": [
+      "0000000460928142"
+    ]
+  }
+]

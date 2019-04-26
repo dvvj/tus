@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Rollins School of Public Health",
+    "affTo": "Emory University",
+    "aliases": [ ]
+  },
+  {
+    "name": "Dornsife School of Public Health",
+    "affTo": "Drexel University",
+    "aliases": [ ]
+  },
+  {
+    "name": "Barbara Ann Karmanos Cancer Institute",
+    "affTo": "Wayne State University",
+    "aliases": [
+      "Karmanos Cancer Institute"
+    ]
+  },
+  {
+    "name": "Alpert School of Medicine",
+    "affTo": "Brown University",
+    "aliases": [
+      "Warren Alpert Medical School"
+    ]
+  },
+  {
+    "name": "Weill Medical College",
+    "affTo": "Cornell University",
+    "aliases": [
+      "Weill Cornell Medical College",
+      "Weill Cornell Medicine"
+    ]
+  },
+  {
+    "name": "Harrison School of Pharmacy",
+    "affTo": "Auburn University",
+    "aliases": [ ]
+  },
+  {
+    "name": "Carver College of Medicine",
+    "affTo": "University of Iowa",
+    "aliases": [
+      "Roy J. and Lucille A. Carver College of Medicine"
+    ]
+  },
+  {
+    "name": "Mailman School of Public Health",
+    "affTo": "Columbia University",
+    "aliases": [ ]
+  }
+]

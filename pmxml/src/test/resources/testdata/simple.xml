@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Data-Review" Owner="NLM">
+            <PMID Version="1">28992876</PMID>
+            <DateRevised>
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </DateRevised>
+            <Article PubModel="Print">
+                <Journal>
+                    <ISSN IssnType="Print">1673-8527</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>44</Volume>
+                        <Issue>9</Issue>
+                        <PubDate>
+                            <Year>2017</Year>
+                            <Month>Sep</Month>
+                            <Day>20</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Journal of genetics and genomics = Yi chuan xue bao</Title>
+                    <ISOAbbreviation>J Genet Genomics</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Sparks of the CRISPR explosion: Applications in medicine and agriculture.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>413-414</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">S1673-8527(17)30151-0</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jgg.2017.09.006</ELocationID>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Liu</LastName>
+                        <ForeName>Ji-Long</ForeName>
+                        <Initials>JL</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>School of Life Science and Technology, ShanghaiTech University, Shanghai 201210, China; Department of Physiology, Anatomy and Genetics, University of Oxford, Oxford OX1 3PT, United Kingdom. Electronic address: liujl3@shanghaitech.edu.cn.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016421">Editorial</PublicationType>
+                </PublicationTypeList>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>China</Country>
+                <MedlineTA>J Genet Genomics</MedlineTA>
+                <NlmUniqueID>101304616</NlmUniqueID>
+                <ISSNLinking>1673-8527</ISSNLinking>
+            </MedlineJournalInfo>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2017</Year>
+                    <Month>09</Month>
+                    <Day>16</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28992876</ArticleId>
+                <ArticleId IdType="pii">S1673-8527(17)30151-0</ArticleId>
+                <ArticleId IdType="doi">10.1016/j.jgg.2017.09.006</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+    <PubmedArticle>
+        <MedlineCitation Status="In-Process" Owner="NLM">
+            <PMID Version="1">28992878</PMID>
+            <DateRevised>
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </DateRevised>
+            <Article PubModel="Print">
+                <Journal>
+                    <ISSN IssnType="Print">1499-3872</ISSN>
+                    <JournalIssue CitedMedium="Internet">
+                        <Volume>16</Volume>
+                        <Issue>5</Issue>
+                        <PubDate>
+                            <Year>2017</Year>
+                            <Month>Oct</Month>
+                            <Day>15</Day>
+                        </PubDate>
+                    </JournalIssue>
+                    <Title>Hepatobiliary &amp; pancreatic diseases international : HBPD INT</Title>
+                    <ISOAbbreviation>HBPD INT</ISOAbbreviation>
+                </Journal>
+                <ArticleTitle>Peginterferon alfa-2a for the treatment of chronic hepatitis C in the era of direct-acting antivirals.</ArticleTitle>
+                <Pagination>
+                    <MedlinePgn>470-479</MedlinePgn>
+                </Pagination>
+                <ELocationID EIdType="pii" ValidYN="Y">S1499-3872(17)60044-4</ELocationID>
+                <ELocationID EIdType="doi" ValidYN="Y">10.1016/S1499-3872(17)60044-4</ELocationID>
+                <Abstract>
+                    <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The availability of novel direct-acting antivirals (DAAs) represents a new era of curative hepatitis C virus (HCV) treatment, with over 95% of patients infected with HCV genotype 1 achieving sustained virological response (SVR). Nevertheless, the majority of patients globally are unable to access these treatments because of cost and infrastructure constraints and, thus, remain untreated and uncured.</AbstractText>
+                    <AbstractText Label="DATA SOURCE" NlmCategory="METHODS">Relevant articles of peginterferon (PegIFN)-based treatments in HCV and sofosbuvir-based treatments, simeprevir, daclatasvir/asunaprevir, ritonavir-boosted paritaprevir/ombitasvir/dasabuvir, and grazoprevir/elbasvir, were searched in PubMed database, including general population and special population.</AbstractText>
+                    <AbstractText Label="RESULTS" NlmCategory="RESULTS">PegIFN in combination with ribavirin remains an important and relevant option for some patients, achieving SVR rates of up to 79% in genotype 1 and 89% in genotype 2 or 3 infections, which increases for patients with favorable IL28B genotypes. Triple therapy of DAA plus PegIFN/ribavirin is effective in treating difficult-to-cure patients infected with HCV genotype 3 or with resistance-associated variants. Owing to its long history in HCV management, the efficacy, tolerability and long-term outcomes associated with PegIFN alfa-2a are well established and have been validated in large-scale studies and in clinical practice for many populations. Furthermore, emerging data show that IFN-induced SVR is associated with lower incidences of hepatocellular carcinoma compared with DAAs. On the contrary, novel DAAs have yet to be studied in special populations, and long-term outcomes, particularly tumor development and recurrence in patients with cirrhosis and/or hepatocellular carcinoma, and reactivation of HBV in dually infected patients, are still unclear.</AbstractText>
+                    <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this interferon-free era, PegIFN-based regimens remain a safe and effective option for selected HCV patients.</AbstractText>
+                    <CopyrightInformation>Copyright © 2017 The Editorial Board of Hepatobiliary &amp; Pancreatic Diseases International. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+                </Abstract>
+                <AuthorList CompleteYN="Y">
+                    <Author ValidYN="Y">
+                        <LastName>Huang</LastName>
+                        <ForeName>Yan</ForeName>
+                        <Initials>Y</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Shanghai Roche Pharmaceuticals Ltd., Shanghai 201203, Beijing, China.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Li</LastName>
+                        <ForeName>Ming-Hui</ForeName>
+                        <Initials>MH</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Liver Disease Center, Beijing Ditan Hospital, Capital Medical University, Beijing 100015, China.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Hou</LastName>
+                        <ForeName>Min</ForeName>
+                        <Initials>M</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Shanghai Roche Pharmaceuticals Ltd., Shanghai 201203, Beijing, China.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                    <Author ValidYN="Y">
+                        <LastName>Xie</LastName>
+                        <ForeName>Yao</ForeName>
+                        <Initials>Y</Initials>
+                        <AffiliationInfo>
+                            <Affiliation>Liver Disease Center, Beijing Ditan Hospital, Capital Medical University, Beijing 100015, China. Electronic address: xieyao00120184@sina.com.</Affiliation>
+                        </AffiliationInfo>
+                    </Author>
+                </AuthorList>
+                <Language>eng</Language>
+                <PublicationTypeList>
+                    <PublicationType UI="D016428">Journal Article</PublicationType>
+                    <PublicationType UI="D016454">Review</PublicationType>
+                </PublicationTypeList>
+            </Article>
+            <MedlineJournalInfo>
+                <Country>Singapore</Country>
+                <MedlineTA>Hepatobiliary Pancreat Dis Int</MedlineTA>
+                <NlmUniqueID>101151457</NlmUniqueID>
+            </MedlineJournalInfo>
+            <KeywordList Owner="NOTNLM">
+                <Keyword MajorTopicYN="N">chronic hepatitis C</Keyword>
+                <Keyword MajorTopicYN="N">direct-acting antivirals</Keyword>
+                <Keyword MajorTopicYN="N">hepatitis C virus</Keyword>
+                <Keyword MajorTopicYN="N">peginterferon alfa-2a</Keyword>
+                <Keyword MajorTopicYN="N">ribavirin</Keyword>
+            </KeywordList>
+        </MedlineCitation>
+        <PubmedData>
+            <History>
+                <PubMedPubDate PubStatus="received">
+                    <Year>2016</Year>
+                    <Month>12</Month>
+                    <Day>20</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="accepted">
+                    <Year>2017</Year>
+                    <Month>06</Month>
+                    <Day>23</Day>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="entrez">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="pubmed">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+                <PubMedPubDate PubStatus="medline">
+                    <Year>2017</Year>
+                    <Month>10</Month>
+                    <Day>11</Day>
+                    <Hour>6</Hour>
+                    <Minute>0</Minute>
+                </PubMedPubDate>
+            </History>
+            <PublicationStatus>ppublish</PublicationStatus>
+            <ArticleIdList>
+                <ArticleId IdType="pubmed">28992878</ArticleId>
+                <ArticleId IdType="pii">S1499-3872(17)60044-4</ArticleId>
+                <ArticleId IdType="doi">10.1016/S1499-3872(17)60044-4</ArticleId>
+            </ArticleIdList>
+        </PubmedData>
+    </PubmedArticle>
+</PubmedArticleSet>

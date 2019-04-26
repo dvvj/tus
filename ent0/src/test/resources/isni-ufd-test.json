@@ -1,0 +1,35 @@
+[
+  {
+    "neid" : 4503943224944614,
+    "name" : "UCLA Medical Center Olive View",
+    "aliases" : [ ],
+    "gnid" : 5400784,
+    "exAttrs" : {
+      "CC" : "US",
+      "isni" : "000000040443632X",
+      "post_code" : "91342-1495"
+    }
+  },
+  {
+    "neid" : 4504699139124142,
+    "name" : "Indiana University South Bend",
+    "aliases" : [ "IU South Bend" ],
+    "gnid" : 4926563,
+    "exAttrs" : {
+      "CC" : "US",
+      "isni" : "0000000419370028",
+      "post_code" : "46634-7111"
+    }
+  },
+  {
+    "neid" : 4503943224944605,
+    "name" : "UCLA Division of Physical Sciences",
+    "aliases" : [ "University of California Los Angeles Division of Physical Sciences" ],
+    "gnid" : 5368361,
+    "exAttrs" : {
+      "CC" : "US",
+      "isni" : "0000000403953659",
+      "post_code" : "90095-1565"
+    }
+  }
+]

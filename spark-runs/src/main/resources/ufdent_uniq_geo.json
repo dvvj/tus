@@ -1,0 +1,32 @@
+[
+  {
+    "id": 18015016984850541,
+    "name": "Universite Laval",
+    "isni": "0000000419368390",
+    "gnid": 8674020
+  },
+  {
+    "id": 4506623284545999,
+    "name": "University of Texas MD Anderson Cancer Center",
+    "isni": "0000000122914776",
+    "gnid": 4699066
+  },
+  {
+    "id": 4503943224948735,
+    "name": "University of California San Diego",
+    "isni": "0000000121074242",
+    "gnid": 5363943
+  },
+  {
+    "id": 4504974017024834,
+    "name": "Harvard Medical School",
+    "isni": "0000000403780882",
+    "gnid": 4930956
+  },
+  {
+    "id": 4504974017046331,
+    "name": "Massachusetts General Hospital",
+    "isni": "0000000403869924",
+    "gnid": 4930956
+  }
+]

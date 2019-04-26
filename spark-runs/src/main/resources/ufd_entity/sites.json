@@ -1,0 +1,1270 @@
+[ {
+  "names" : ["american intercontinental university"],
+  "sites" : [ {
+    "isni" : "0000000405301005",
+    "n" : "American InterContinental University"
+  }, {
+    "isni" : "0000000405895106",
+    "n" : "American InterContinental University - Atlanta Campus"
+  }, {
+    "isni" : "0000000405863550",
+    "n" : "American InterContinental University - Houston Campus"
+  } ]
+}, {
+  "names" : ["california state university"],
+  "sites" : [ {
+    "isni" : "0000000096398885",
+    "n" : "California State University Bakersfield"
+  }, {
+    "isni" : "0000000097779241",
+    "n" : "California State University Channel Islands"
+  }, {
+    "isni" : "0000000122971981",
+    "n" : "California State University Chico"
+  }, {
+    "isni" : "0000000107464340",
+    "n" : "California State University Dominguez Hills"
+  }, {
+    "isni" : "0000000107283670",
+    "n" : "California State University East Bay"
+  }, {
+    "isni" : "0000000404708401",
+    "n" : "California State University East Bay - Concord Campus"
+  }, {
+    "isni" : "0000000123093092",
+    "n" : "California State University Fresno"
+  }, {
+    "isni" : "0000000122928158",
+    "n" : "California State University Fullerton"
+  }, {
+    "isni" : "0000000460135847",
+    "n" : "California State University Fullerton - Irvine Campus"
+  }, {
+    "isni" : "0000000090936830",
+    "n" : "California State University Long Beach"
+  }, {
+    "isni" : "0000000108062909",
+    "n" : "California State University Los Angeles"
+  }, {
+    "isni" : "0000000403857165",
+    "n" : "California State University Monterey Bay"
+  }, {
+    "isni" : "0000000106579381",
+    "n" : "California State University Northridge"
+  }, {
+    "isni" : "0000000121696543",
+    "n" : "California State University Sacramento"
+  }, {
+    "isni" : "0000000092054356",
+    "n" : "California State University San Bernardino"
+  }, {
+    "isni" : "0000000405220125",
+    "n" : "California State University San Bernardino - Palm Desert Campus"
+  }, {
+    "isni" : "0000000098947796",
+    "n" : "California State University San Marcos"
+  }, {
+    "isni" : "0000000122192646",
+    "n" : "California State University Stanislaus"
+  }, {
+    "isni" : "0000000404287651",
+    "n" : "California State University System"
+  } ]
+}, {
+  "names" : ["janssen research and development"],
+  "sites" : [ {
+    "isni" : "0000000405582345",
+    "n" : "Janssen Research and Development Horsham"
+  }, {
+    "isni" : "0000000404578264",
+    "n" : "Janssen Research and Development LLC"
+  }, {
+    "isni" : "0000000404852569",
+    "n" : "Janssen Research and Development La Jolla"
+  }, {
+    "isni" : "0000000405582214",
+    "n" : "Janssen Research and Development Los Angeles"
+  }, {
+    "isni" : "0000000405583161",
+    "n" : "Janssen Research and Development Radnor"
+  }, {
+    "isni" : "0000000404537307",
+    "n" : "Janssen Research and Development South San Francisco"
+  }, {
+    "isni" : "0000000404507191",
+    "n" : "Janssen Research and Development Spring House"
+  }, {
+    "isni" : "0000000404852622",
+    "n" : "Janssen Research and Development Titusville"
+  } ]
+}, {
+  "names" : ["loyola university"],
+  "sites" : [ {
+    "isni" : "0000000419367814",
+    "n" : "Loyola University Chicago"
+  }, {
+    "isni" : "0000000404868763",
+    "n" : "Loyola University Chicago - Lake Shore Campus"
+  }, {
+    "isni" : "0000000404868827",
+    "n" : "Loyola University Chicago - Water Tower Campus"
+  }, {
+    "isni" : "0000000110142318",
+    "n" : "Loyola University Maryland"
+  }, {
+    "isni" : "0000000110930402",
+    "n" : "Loyola University New Orleans"
+  } ]
+}, {
+  "names" : ["mayo clinic"],
+  "sites" : [ {
+    "isni" : "0000000405457210",
+    "n" : "Mayo Clinic Arizona"
+  }, {
+    "isni" : "000000040459167X",
+    "n" : "Mayo Clinic Minnesota"
+  }, {
+    "isni" : "0000000404439942",
+    "n" : "Mayo Clinic's Campus in Florida"
+  } ]
+}, {
+  "names" : ["mayo clinic research"],
+  "sites" : [ {
+    "isni" : "0000000446602226",
+    "n" : "Mayo Clinic Research"
+  }, {
+    "isni" : "0000000405401217",
+    "n" : "Mayo Clinic Research Arizona"
+  }, {
+    "isni" : "0000000404141978",
+    "n" : "Mayo Clinic Research Florida"
+  }, {
+    "isni" : "0000000405401110",
+    "n" : "Mayo Clinic Research Minnesota"
+  } ]
+}, {
+  "names" : ["rutgers university"],
+  "sites" : [ {
+    "isni" : "0000000403670376",
+    "n" : "Rutgers University - Busch Campus"
+  }, {
+    "isni" : "0000000404912568",
+    "n" : "Rutgers University - Douglass Campus"
+  }, {
+    "isni" : "0000000404912488",
+    "n" : "Rutgers University - George H. Cook Campus"
+  }, {
+    "isni" : "0000000404912410",
+    "n" : "Rutgers University - Livingston Campus"
+  }, {
+    "isni" : "0000000093681394",
+    "n" : "Rutgers University Camden"
+  }, {
+    "isni" : "0000000459134089",
+    "n" : "Rutgers University Endocrine Research Facility"
+  }, {
+    "isni" : "0000000404842096",
+    "n" : "Rutgers University Marine Field Station"
+  }, {
+    "isni" : "0000000419368796",
+    "n" : "Rutgers University New Brunswick"
+  }, {
+    "isni" : "0000000086928176",
+    "n" : "Rutgers University Newark"
+  } ]
+}, {
+  "names" : ["state university of new york"],
+  "sites" : [ {
+    "isni" : "0000000446476274",
+    "n" : "State University of New York"
+  }, {
+    "isni" : "0000000096842747",
+    "n" : "State University of New York Upstate Medical University"
+  }, {
+    "isni" : "0000000419370159",
+    "n" : "State University of New York at Oswego"
+  } ]
+}, {
+  "names" : ["university at buffalo"],
+  "sites" : [ {
+    "isni" : "0000000404285875",
+    "n" : "University at Buffalo - Downtown Campus"
+  }, {
+    "isni" : "0000000404285832",
+    "n" : "University at Buffalo - North Campus"
+  }, {
+    "isni" : "0000000419369887",
+    "n" : "University at Buffalo - The State University of New York"
+  } ]
+}, {
+  "names" : ["university of california"],
+  "sites" : [ {
+    "isni" : "0000000121817878",
+    "n" : "University of California Berkeley"
+  }, {
+    "isni" : "0000000419369684",
+    "n" : "University of California Davis"
+  }, {
+    "isni" : "0000000106687243",
+    "n" : "University of California Irvine"
+  }, {
+    "isni" : "000000040464871X",
+    "n" : "University of California Los Angeles"
+  }, {
+    "isni" : "0000000100491282",
+    "n" : "University of California Merced"
+  }, {
+    "isni" : "0000000404708313",
+    "n" : "University of California Merced - Castle Campus"
+  }, {
+    "isni" : "0000000404708233",
+    "n" : "University of California Merced - Mondo Campus"
+  }, {
+    "isni" : "0000000122221582",
+    "n" : "University of California Riverside"
+  }, {
+    "isni" : "0000000121074242",
+    "n" : "University of California San Diego"
+  }, {
+    "isni" : "0000000122976811",
+    "n" : "University of California San Francisco"
+  }, {
+    "isni" : "0000000419369676",
+    "n" : "University of California Santa Barbara"
+  }, {
+    "isni" : "0000000107406917",
+    "n" : "University of California Santa Cruz"
+  }, {
+    "isni" : "0000000123480690",
+    "n" : "University of California System"
+  } ]
+}, {
+  "names" : ["university of georgia"],
+  "sites" : [ {
+    "isni" : "000000041936738X",
+    "n" : "University of Georgia"
+  }, {
+    "isni" : "0000000404526309",
+    "n" : "University of Georgia - Gwinnett Campus"
+  }, {
+    "isni" : "0000000404307456",
+    "n" : "University of Georgia Agricultural Experiment Station"
+  }, {
+    "isni" : "0000000405675701",
+    "n" : "University of Georgia Coastal Plain Research Arboretum"
+  } ]
+}, {
+  "names" : ["university of hawaii", "university of hawai'i"],
+  "sites" : [ {
+    "isni" : "0000000114821895",
+    "n" : "University of Hawaii System"
+  }, {
+    "isni" : "0000000092233530",
+    "n" : "University of Hawaii West Oahu"
+  }, {
+    "isni" : "000000008723917X",
+    "n" : "University of Hawaii at Hilo"
+  }, {
+    "isni" : "0000000121880957",
+    "n" : "University of Hawai'i at Manoa"
+  } ]
+}, {
+  "names" : ["university of missouri"],
+  "sites" : [ {
+    "isni" : "0000000121623504",
+    "n" : "University of Missouri Columbia"
+  }, {
+    "isni" : "0000000446867048",
+    "n" : "University of Missouri Extension Clay County"
+  }, {
+    "isni" : "000000012179926X",
+    "n" : "University of Missouri Kansas City"
+  }, {
+    "isni" : "0000000107753310",
+    "n" : "University of Missouri System"
+  }, {
+    "isni" : "0000000404713120",
+    "n" : "University of Missouri University Physicians"
+  }, {
+    "isni" : "0000000085158050",
+    "n" : "University of Missouri at Saint Louis"
+  } ]
+}, {
+  "names" : ["university of north carolina"],
+  "sites" : [  {
+    "isni" : "0000000110341720",
+    "n" : "University of North Carolina System"
+  }, {
+    "isni" : "0000000102917689",
+    "n" : "University of North Carolina at Asheville"
+  }, {
+    "isni" : "0000000122483208",
+    "n" : "University of North Carolina at Chapel Hill"
+  }, {
+    "isni" : "000000010675176X",
+    "n" : "University of North Carolina at Charlotte"
+  }, {
+    "isni" : "000000010671255X",
+    "n" : "University of North Carolina at Greensboro"
+  }, {
+    "isni" : "0000000100198924",
+    "n" : "University of North Carolina at Pembroke"
+  }, {
+    "isni" : "0000000098130452",
+    "n" : "University of North Carolina at Wilmington"
+  } ]
+}, {
+  "names" : ["university of texas medical branch"],
+  "sites" : [ {
+    "isni" : "0000000115479964",
+    "n" : "University of Texas Medical Branch at Galveston"
+  } ]
+}, {
+  "names" : ["louisiana state university health sciences center"],
+  "sites" : [ {
+    "isni" : "0000000404436864",
+    "n" : "Louisiana State University Health Sciences Center Shreveport"
+  } ]
+}, {
+  "names" : ["university of wisconsin"],
+  "sites" : [ {
+    "isni" : "0000000405833386",
+    "n" : "University Of Wisconsin Colleges"
+  }, {
+    "isni" : "0000000093654572",
+    "n" : "University of Wisconsin Baraboo/Sauk County"
+  }, {
+    "isni" : "0000000404240984",
+    "n" : "University of Wisconsin Barron County"
+  }, {
+    "isni" : "0000000122272494",
+    "n" : "University of Wisconsin Eau Claire"
+  }, {
+    "isni" : "0000000403873800",
+    "n" : "University of Wisconsin Fond Du Lac"
+  }, {
+    "isni" : "0000000111547202",
+    "n" : "University of Wisconsin Fox Valley"
+  }, {
+    "isni" : "0000000105597692",
+    "n" : "University of Wisconsin Green Bay"
+  }, {
+    "isni" : "0000000121695137",
+    "n" : "University of Wisconsin La Crosse"
+  }, {
+    "isni" : "0000000121673675",
+    "n" : "University of Wisconsin Madison"
+  }, {
+    "isni" : "0000000404241119",
+    "n" : "University of Wisconsin Manitowoc"
+  }, {
+    "isni" : "000000040387415X",
+    "n" : "University of Wisconsin Marathon County"
+  }, {
+    "isni" : "0000000406093666",
+    "n" : "University of Wisconsin Marinette"
+  }, {
+    "isni" : "0000000403873990",
+    "n" : "University of Wisconsin Marshfield/Wood County"
+  }, {
+    "isni" : "0000000106957223",
+    "n" : "University of Wisconsin Milwaukee"
+  }, {
+    "isni" : "000000012191415X",
+    "n" : "University of Wisconsin Oshkosh"
+  }, {
+    "isni" : "0000000110105728",
+    "n" : "University of Wisconsin Parkside"
+  }, {
+    "isni" : "0000000088620626",
+    "n" : "University of Wisconsin Platteville"
+  }, {
+    "isni" : "0000000121127973",
+    "n" : "University of Wisconsin River Falls"
+  }, {
+    "isni" : "0000000404628479",
+    "n" : "University of Wisconsin Rock County"
+  }, {
+    "isni" : "0000000403873915",
+    "n" : "University of Wisconsin Sheboygan"
+  }, {
+    "isni" : "0000000107086642",
+    "n" : "University of Wisconsin Stevens Point"
+  }, {
+    "isni" : "0000000449089608",
+    "n" : "University of Wisconsin Stevens Point Treehaven"
+  }, {
+    "isni" : "0000000121879315",
+    "n" : "University of Wisconsin Stout"
+  }, {
+    "isni" : "0000000092036166",
+    "n" : "University of Wisconsin Superior"
+  }, {
+    "isni" : "0000000107018607",
+    "n" : "University of Wisconsin System"
+  }, {
+    "isni" : "0000000406095629",
+    "n" : "University of Wisconsin Washington County"
+  }, {
+    "isni" : "000000040387407X",
+    "n" : "University of Wisconsin Waukesha"
+  }, {
+    "isni" : "0000000419370095",
+    "n" : "University of Wisconsin Whitewater"
+  } ]
+}, {
+  "names" : ["university of alabama"],
+  "sites" : [ {
+    "isni" : "0000000404748665",
+    "n" : "University of Alabama System"
+  }, {
+    "isni" : "000000010727132X",
+    "n" : "University of Alabama at Birmingham"
+  }, {
+    "isni" : "0000000404341304",
+    "n" : "University of Alabama at Birmingham Medical West"
+  }, {
+    "isni" : "0000000087964945",
+    "n" : "University of Alabama in Huntsville"
+  } ]
+}, {
+  "names" : ["university of illinois"],
+  "sites" : [ {
+    "isni" : "0000000088875725",
+    "n" : "University of Illinois Extension"
+  }, {
+    "isni" : "0000000446836970",
+    "n" : "University of Illinois Extension East Moline"
+  }, {
+    "isni" : "000000044683692X",
+    "n" : "University of Illinois Extension Matteson"
+  }, {
+    "isni" : "0000000114006524",
+    "n" : "University of Illinois System"
+  }, {
+    "isni" : "0000000121750319",
+    "n" : "University of Illinois at Chicago"
+  }, {
+    "isni" : "0000000108457273",
+    "n" : "University of Illinois at Springfield"
+  }, {
+    "isni" : "0000000419369991",
+    "n" : "University of Illinois at Urbana-Champaign"
+  } ]
+}, {
+  "names" : ["university of texas"],
+  "sites" : [ {
+    "isni" : "0000000404456806",
+    "n" : "University of Texas - TeleCampus"
+  }, {
+    "isni" : "0000000090040284",
+    "n" : "University of Texas Dental Branch at Houston"
+  }, {
+    "isni" : "0000000096962394",
+    "n" : "University of Texas Rio Grande Valley"
+  }, {
+    "isni" : "000000012159853X",
+    "n" : "University of Texas Rio Grande Valley - Edinburg Campus"
+  }, {
+    "isni" : "0000000121548364",
+    "n" : "University of Texas System"
+  }, {
+    "isni" : "0000000121819515",
+    "n" : "University of Texas at Arlington"
+  }, {
+    "isni" : "0000000419369924",
+    "n" : "University of Texas at Austin"
+  }, {
+    "isni" : "0000000121517939",
+    "n" : "University of Texas at Dallas"
+  }, {
+    "isni" : "0000000106680420",
+    "n" : "University of Texas at El Paso"
+  }, {
+    "isni" : "0000000121845633",
+    "n" : "University of Texas at San Antonio"
+  }, {
+    "isni" : "0000000106264654",
+    "n" : "University of Texas at Tyler"
+  }, {
+    "isni" : "0000000091401491",
+    "n" : "University of Texas of The Permian Basin"
+  } ]
+}, {
+  "names" : ["baylor university medical center"],
+  "sites" : [ {
+    "isni" : "0000000404413996",
+    "n" : "Baylor University Medical Center at Dallas"
+  } ]
+}, {
+  "names" : ["university of connecticut"],
+  "sites" : [ {
+    "isni" : "0000000404378203",
+    "n" : "University of Connecticut - Greater Hartford Campus"
+  }, {
+    "isni" : "0000000404738491",
+    "n" : "University of Connecticut - Torrington Campus"
+  }, {
+    "isni" : "0000000404563943",
+    "n" : "University of Connecticut - Tri-Campus"
+  }, {
+    "isni" : "0000000405828640",
+    "n" : "University of Connecticut Avery Point"
+  }, {
+    "isni" : "0000000404919778",
+    "n" : "University of Connecticut System"
+  }, {
+    "isni" : "000000008683388X",
+    "n" : "University of Connecticut at Stamford"
+  }, {
+    "isni" : "0000000405908499",
+    "n" : "University of Connecticut at Waterbury"
+  } ]
+}, {
+  "names" : ["university of maryland"],
+  "sites" : [ {
+    "isni" : "0000000121754264",
+    "n" : "University of Maryland Baltimore"
+  }, {
+    "isni" : "0000000121981096",
+    "n" : "University of Maryland Eastern Shore"
+  }, {
+    "isni" : "0000000109417177",
+    "n" : "University of Maryland at College Park"
+  } ]
+}, {
+  "names" : ["university of nebraska"],
+  "sites" : [ {
+    "isni" : "0000000403865405",
+    "n" : "University of Nebraska Kearney"
+  }, {
+    "isni" : "0000000107755412",
+    "n" : "University of Nebraska at Omaha"
+  }, {
+    "isni" : "0000000419370060",
+    "n" : "University of Nebraska-Lincoln"
+  } ]
+}, {
+  "names" : ["oregon health and science university"],
+  "sites" : [ {
+    "isni" : "0000000406103932",
+    "n" : "Oregon Health & Science University - West Campus"
+  } ]
+}, {
+  "names" : ["louisiana state university"],
+  "sites" : [ {
+    "isni" : "0000000106627451",
+    "n" : "Louisiana State University"
+  }, {
+    "isni" : "0000000106655823",
+    "n" : "Louisiana State University System"
+  }, {
+    "isni" : "0000000094742953",
+    "n" : "Louisiana State University at Alexandria"
+  }, {
+    "isni" : "0000000419370036",
+    "n" : "Louisiana State University at Eunice"
+  }, {
+    "isni" : "0000000122953740",
+    "n" : "Louisiana State University in Shreveport"
+  } ]
+}, {
+  "names" : ["indiana university purdue university", "Indiana University - Purdue University"],
+  "sites" : [ {
+    "isni" : "0000000122850696",
+    "n" : "Indiana University Purdue University at Fort Wayne"
+  }, {
+    "isni" : "0000000122873919",
+    "n" : "Indiana University Purdue University at Indianapolis"
+  }, {
+    "isni" : "0000000106471186",
+    "n" : "Indiana University-Purdue University Columbus"
+  } ]
+}, {
+  "names" : ["indiana university of pennsylvania"],
+  "sites" : [ {
+    "isni" : "0000000404847866",
+    "n" : "Indiana University of Pennsylvania - Northpointe Campus"
+  }, {
+    "isni" : "0000000404505815",
+    "n" : "Indiana University of Pennsylvania Punxsutawney Campus"
+  } ]
+}, {
+  "names" : ["indiana university"],
+  "sites" : [ {
+    "isni" : "0000000419367507",
+    "n" : "Indiana University Bloomington"
+  }, {
+    "isni" : "0000000122873919",
+    "n" : "Indiana University Purdue University at Indianapolis"
+  }, {
+    "isni" : "0000000105589641",
+    "n" : "Indiana University East"
+  }, {
+    "isni" : "000000008544783X",
+    "n" : "Indiana University Kokomo"
+  }, {
+    "isni" : "0000000092033096",
+    "n" : "Indiana University Northwest"
+  }, {
+    "isni" : "0000000419370028",
+    "n" : "Indiana University South Bend"
+  }, {
+    "isni" : "0000000121696797",
+    "n" : "Indiana University Southeast"
+  }, {
+    "isni" : "0000000404133089",
+    "n" : "Indiana University System"
+  } ]
+}, {
+  "names" : ["university of minnesota"],
+  "sites" : [ {
+    "isni" : "0000000105097006",
+    "n" : "University of Minnesota Crookston"
+  }, {
+    "isni" : "0000000095409781",
+    "n" : "University of Minnesota Duluth"
+  }, {
+    "isni" : "0000000405196727",
+    "n" : "University of Minnesota Extension"
+  }, {
+    "isni" : "0000000112403980",
+    "n" : "University of Minnesota Morris"
+  }, {
+    "isni" : "0000000404984641",
+    "n" : "University of Minnesota Outreach"
+  }, {
+    "isni" : "0000000404117898",
+    "n" : "University of Minnesota Physicians"
+  }, {
+    "isni" : "0000000404182868",
+    "n" : "University of Minnesota Rochester"
+  }, {
+    "isni" : "0000000405199645",
+    "n" : "University of Minnesota System"
+  } ]
+}, {
+  "names" : ["purdue university"],
+  "sites" : [ {
+    "isni" : "0000000403716338",
+    "n" : "Purdue University Globa - Hagerstown Campus"
+  }, {
+    "isni" : "0000000405740657",
+    "n" : "Purdue University Global - Augusta Campus"
+  }, {
+    "isni" : "0000000405310526",
+    "n" : "Purdue University Global - Cedar Falls Campus"
+  }, {
+    "isni" : "0000000405310710",
+    "n" : "Purdue University Global - Cedar Rapids Campus"
+  }, {
+    "isni" : "000000040483458X",
+    "n" : "Purdue University Global - Davenport Campus"
+  }, {
+    "isni" : "000000040403198X",
+    "n" : "Purdue University Global - Des Moines Campus"
+  }, {
+    "isni" : "0000000464549326",
+    "n" : "Purdue University Global - Indianapolis Campus"
+  }, {
+    "isni" : "0000000404106144",
+    "n" : "Purdue University Global - Lewiston Campus"
+  }, {
+    "isni" : "0000000405238050",
+    "n" : "Purdue University Global - Lincoln Campus"
+  }, {
+    "isni" : "0000000405313495",
+    "n" : "Purdue University Global - Mason City Campus"
+  }, {
+    "isni" : "0000000464549334",
+    "n" : "Purdue University Global - Milwaukee Campus"
+  }, {
+    "isni" : "0000000405256603",
+    "n" : "Purdue University Global - Omaha Campus"
+  }, {
+    "isni" : "0000000405446431",
+    "n" : "Purdue University Global Office of the Registrar"
+  }, {
+    "isni" : "0000000088647239",
+    "n" : "Purdue University Northwest"
+  }, {
+    "isni" : "0000000404841472",
+    "n" : "Purdue University System"
+  } ]
+}, {
+  "names" : ["oregon state university"],
+  "sites" : [ {
+    "isni" : "0000000406338635",
+    "n" : "Oregon State University - Cascades Campus"
+  } ]
+}, {
+  "names" : ["state university of new york"],
+  "sites" : [ {
+    "isni" : "0000000122169681",
+    "n" : "State University of New York at Stony Brook"
+  }, {
+    "isni" : "0000000419370159",
+    "n" : "State University of New York at Oswego"
+  }, {
+    "isni" : "0000000103824388",
+    "n" : "SUNY Adirondack"
+  }, {
+    "isni" : "0000000403877959",
+    "n" : "SUNY Canton"
+  }, {
+    "isni" : "0000000086068110",
+    "n" : "SUNY Cobleskill"
+  }, {
+    "isni" : "0000000093400716",
+    "n" : "SUNY Cortland"
+  }, {
+    "isni" : "0000000403879268",
+    "n" : "SUNY Delhi"
+  }, {
+    "isni" : "0000000403880154",
+    "n" : "SUNY Fredonia"
+  }, {
+    "isni" : "0000000101510940",
+    "n" : "SUNY Geneseo"
+  }, {
+    "isni" : "0000000086114981",
+    "n" : "SUNY New Paltz"
+  }, {
+    "isni" : "0000000107245877",
+    "n" : "SUNY Plattsburgh"
+  }, {
+    "isni" : "0000000099000190",
+    "n" : "SUNY Potsdam"
+  }, {
+    "isni" : "0000000403884278",
+    "n" : "SUNY Ulster"
+  } ]
+}, {
+  "names" : ["indiana university school of medicine"],
+  "sites" : [ {
+    "isni" : "0000000404149304",
+    "n" : "Indiana University School of Medicine - Lafayette"
+  }, {
+    "isni" : "0000000404149523",
+    "n" : "Indiana University School of Medicine-South Bend"
+  } ]
+}, {
+  "names" : ["University of South Carolina School of Medicine"],
+  "sites" : [ {
+    "isni" : "0000000405668966",
+    "n" : "USC School of Medicine Greenville"
+  } ]
+}, {
+  "names" : ["University of Nevada School of Medicine"],
+  "sites" : [ {
+    "isni" : "0000000404843929",
+    "n" : "University of Nevada School of Medicine - Las Vegas Campus"
+  } ]
+}, {
+  "names" : ["Louisiana State University School of Medicine"],
+  "sites" : [ {
+    "isni" : "0000000102905979",
+    "n" : "Louisiana State University School of Medicine in New Orleans"
+  }, {
+    "isni" : "0000000403675150",
+    "n" : "Louisiana State University Health Sciences Center Shreveport School of Medicine"
+  } ]
+}, {
+  "names" : ["university of illinois college of medicine"],
+  "sites" : [ {
+    "isni" : "0000000406143344",
+    "n" : "University of Illinois College of Medicine - Urbana"
+  }, {
+    "isni" : "0000000107414132",
+    "n" : "University of Illinois at Chicago College of Medicine"
+  }, {
+    "isni" : "0000000404040763",
+    "n" : "University of Illinois College of Medicine at Peoria"
+  }, {
+    "isni" : "0000000090187542",
+    "n" : "University of Illinois College of Medicine at Rockford"
+  } ]
+}, {
+  "names" : ["university of michigan"],
+  "sites" : [ {
+    "isni" : "0000000121547652",
+    "n" : "University of Michigan Dearborn"
+  }, {
+    "isni" : "0000000404009993",
+    "n" : "University of Michigan Dearborn College of Arts Sciences and Letters"
+  }, {
+    "isni" : "0000000091345741",
+    "n" : "University of Michigan Flint"
+  }, {
+    "isni" : "0000000404922096",
+    "n" : "University of Michigan Herbarium"
+  }, {
+    "isni" : "0000000459379342",
+    "n" : "University of Michigan Wallace House"
+  } ]
+}, {
+  "names" : [ "university of texas school of public health" ],
+  "sites" : [ {
+    "isni" : "0000000405997137",
+    "n" : "University of Texas School of Public Health - El Paso"
+  }, {
+    "isni" : "000000040456791X",
+    "n" : "University of Texas School of Public Health - San Antonio Regional Campus"
+  } ]
+}, {
+  "names" : [ "university of texas md anderson cancer center" ],
+  "sites" : [ {
+    "isni" : "0000000404885969",
+    "n" : "University of Texas MD Anderson Cancer Center Virginia Harris Cockrell Cancer Research Center at Science Park"
+  } ]
+}, {
+  "names" : [ "university of florida college of medicine" ],
+  "sites" : [ {
+    "isni" : "0000000404246075",
+    "n" : "University of Florida College of Medicine - Jacksonville"
+  } ]
+}, {
+  "names" : [ "texas tech university health sciences center" ],
+  "sites" : [ {
+    "isni" : "0000000446632054",
+    "n" : "Texas Tech University Health Sciences Center - Abilene Campus"
+  }, {
+    "isni" : "0000000404280302",
+    "n" : "Texas Tech University Health Sciences Center - Amarillo Campus"
+  }, {
+    "isni" : "0000000406143088",
+    "n" : "Texas Tech University Health Sciences Center - Midland Campus"
+  }, {
+    "isni" : "0000000405670863",
+    "n" : "Texas Tech University Health Sciences Center El Paso"
+  } ]
+}, {
+  "names" : [ "penn state", "Pennsylvania State University", "Penn State University" ],
+  "sites" : [ {
+    "isni" : "0000000091575643",
+    "n" : "Penn State Abington"
+  }, {
+    "isni" : "0000000094282539",
+    "n" : "Penn State Altoona"
+  }, {
+    "isni" : "0000000090227487",
+    "n" : "Penn State Beaver"
+  }, {
+    "isni" : "0000000093616170",
+    "n" : "Penn State Berks"
+  }, {
+    "isni" : "0000000096328721",
+    "n" : "Penn State Brandywine"
+  }, {
+    "isni" : "0000000404643345",
+    "n" : "Penn State Dickinson Law"
+  }, {
+    "isni" : "0000000092263393",
+    "n" : "Penn State DuBois"
+  }, {
+    "isni" : "0000000404513540",
+    "n" : "Penn State Extension Chester County"
+  }, {
+    "isni" : "0000000404280273",
+    "n" : "Penn State Extension Montgomery County"
+  }, {
+    "isni" : "0000000095647130",
+    "n" : "Penn State Fayette"
+  }, {
+    "isni" : "000000009497755X",
+    "n" : "Penn State Great Valley"
+  }, {
+    "isni" : "0000000103790771",
+    "n" : "Penn State Greater Allegheny"
+  }, {
+    "isni" : "000000010108075X",
+    "n" : "Penn State Harrisburg"
+  }, {
+    "isni" : "000000009972122X",
+    "n" : "Penn State Hazleton"
+  }, {
+    "isni" : "000000008820223X",
+    "n" : "Penn State Mont Alto"
+  }, {
+    "isni" : "0000000098372275",
+    "n" : "Penn State New Kensington"
+  }, {
+    "isni" : "0000000093616664",
+    "n" : "Penn State Schuylkill"
+  }, {
+    "isni" : "0000000105143009",
+    "n" : "Penn State Shenango"
+  }, {
+    "isni" : "0000000405938372",
+    "n" : "Penn State World Campus"
+  }, {
+    "isni" : "0000000097010280",
+    "n" : "Penn State Worthington Scranton"
+  }, {
+    "isni" : "0000000099046439",
+    "n" : "Penn State York"
+  }, {
+    "isni" : "0000000419369908",
+    "n" : "Penn State College of Medicine"
+  } ]
+}, {
+  "names" : [ "kaiser permanente" ],
+  "sites" : [ {
+    "isni" : "0000000404251405",
+    "n" : "Kaiser Permanente Antioch Medical Center"
+  }, {
+    "isni" : "0000000405495874",
+    "n" : "Kaiser Permanente Arden Annex"
+  }, {
+    "isni" : "0000000404913982",
+    "n" : "Kaiser Permanente Carson"
+  }, {
+    "isni" : "0000000403816769",
+    "n" : "Kaiser Permanente Central Valley"
+  }, {
+    "isni" : "0000000446870327",
+    "n" : "Kaiser Permanente Central Valley Consortium"
+  }, {
+    "isni" : "0000000406030032",
+    "n" : "Kaiser Permanente Clinical Technology"
+  }, {
+    "isni" : "0000000403816283",
+    "n" : "Kaiser Permanente Daly City Medical Offices"
+  }, {
+    "isni" : "0000000406138529",
+    "n" : "Kaiser Permanente Downey Medical Center"
+  }, {
+    "isni" : "0000000405115114",
+    "n" : "Kaiser Permanente Elk Grove Medical Offices"
+  }, {
+    "isni" : "0000000404995041",
+    "n" : "Kaiser Permanente Fremont Medical Center"
+  }, {
+    "isni" : "0000000404450260",
+    "n" : "Kaiser Permanente Fresno Medical Center"
+  }, {
+    "isni" : "0000000404451108",
+    "n" : "Kaiser Permanente Hayward Medical Center"
+  }, {
+    "isni" : "0000000446699443",
+    "n" : "Kaiser Permanente Lakeview Medical Offices"
+  }, {
+    "isni" : "0000000446533013",
+    "n" : "Kaiser Permanente Lincoln Medical Offices"
+  }, {
+    "isni" : "0000000405812606",
+    "n" : "Kaiser Permanente Marina Playa Medical Offices"
+  }, {
+    "isni" : "0000000403943688",
+    "n" : "Kaiser Permanente Martinez Medical Offices"
+  }, {
+    "isni" : "0000000404450914",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404451634",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404450121",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404451570",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404450789",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000460118852",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404451378",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404450551",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000404450439",
+    "n" : "Kaiser Permanente Medical Center"
+  }, {
+    "isni" : "0000000464307028",
+    "n" : "Kaiser Permanente Moreno Valley Medical Center"
+  }, {
+    "isni" : "0000000446862669",
+    "n" : "Kaiser Permanente Mount Scott Medical Office"
+  }, {
+    "isni" : "0000000404993492",
+    "n" : "Kaiser Permanente Northern California"
+  }, {
+    "isni" : "0000000406071846",
+    "n" : "Kaiser Permanente Northwest"
+  }, {
+    "isni" : "0000000404450201",
+    "n" : "Kaiser Permanente Oakland Medical Center"
+  }, {
+    "isni" : "0000000464307001",
+    "n" : "Kaiser Permanente Ontario Vineyard Medical Offices"
+  }, {
+    "isni" : "000000046430701X",
+    "n" : "Kaiser Permanente Orange County - Irvine Medical Center"
+  }, {
+    "isni" : "0000000403805760",
+    "n" : "Kaiser Permanente Panorama City Medical Center"
+  }, {
+    "isni" : "0000000417944278",
+    "n" : "Kaiser Permanente Point West Medical Offices"
+  }, {
+    "isni" : "0000000404450981",
+    "n" : "Kaiser Permanente Redwood City Medical Center"
+  }, {
+    "isni" : "0000000404519926",
+    "n" : "Kaiser Permanente Richmond Medical Center"
+  }, {
+    "isni" : "0000000404451693",
+    "n" : "Kaiser Permanente Riverside Medical Center"
+  }, {
+    "isni" : "0000000404426914",
+    "n" : "Kaiser Permanente Roseville Medical Center"
+  }, {
+    "isni" : "0000000404451191",
+    "n" : "Kaiser Permanente San Diego Medical Center"
+  }, {
+    "isni" : "0000000404619476",
+    "n" : "Kaiser Permanente San Francisco Medical Center"
+  }, {
+    "isni" : "0000000404440628",
+    "n" : "Kaiser Permanente San Jose Medical Center"
+  }, {
+    "isni" : "0000000405678216",
+    "n" : "Kaiser Permanente San Rafael Medical Center"
+  }, {
+    "isni" : "0000000404450711",
+    "n" : "Kaiser Permanente Santa Clara Medical Center"
+  }, {
+    "isni" : "0000000404450834",
+    "n" : "Kaiser Permanente Santa Rosa Medical Center"
+  }, {
+    "isni" : "0000000404451263",
+    "n" : "Kaiser Permanente South Bay Medical Center"
+  }, {
+    "isni" : "000000040445048X",
+    "n" : "Kaiser Permanente South Sacramento Medical Center"
+  }, {
+    "isni" : "000000040445064X",
+    "n" : "Kaiser Permanente South San Francisco Medical Center"
+  }, {
+    "isni" : "0000000406151176",
+    "n" : "Kaiser Permanente Southern California"
+  }, {
+    "isni" : "0000000460060937",
+    "n" : "Kaiser Permanente Southwood Comprehensive Medical Center"
+  }, {
+    "isni" : "0000000403817198",
+    "n" : "Kaiser Permanente Tracy Medical Offices"
+  }, {
+    "isni" : "0000000404004500",
+    "n" : "Kaiser Permanente Vacaville Medical Offices"
+  }, {
+    "isni" : "0000000404451458",
+    "n" : "Kaiser Permanente Vallejo Medical Center"
+  }, {
+    "isni" : "0000000404635476",
+    "n" : "Kaiser Permanente Washington"
+  }, {
+    "isni" : "0000000446593470",
+    "n" : "Kaiser Permanente Washington Seattle-Capitol Hill Campus"
+  }, {
+    "isni" : "0000000404452637",
+    "n" : "Kaiser Permanente Watts Counseling and Learning Center"
+  }, {
+    "isni" : "000000044653637X",
+    "n" : "Kaiser Permanente Westside Medical Center"
+  } ]
+}, {
+  "names" : [ "texas a&m university" ],
+  "sites" : [ {
+    "isni" : "0000000101805693",
+    "n" : "Texas A&M University - San Antonio"
+  }, {
+    "isni" : "0000000403867929",
+    "n" : "Texas A&M University Central Texas"
+  }, {
+    "isni" : "0000000419370087",
+    "n" : "Texas A&M University Commerce"
+  }, {
+    "isni" : "0000000098807531",
+    "n" : "Texas A&M University Corpus Christi"
+  }, {
+    "isni" : "0000000403870036",
+    "n" : "Texas A&M University Kingsville"
+  }, {
+    "isni" : "0000000092029644",
+    "n" : "Texas A&M University Texarkana"
+  }, {
+    "isni" : "0000000405464832",
+    "n" : "Texas A&M University at Galveston"
+  } ]
+}, {
+  "names" : [ "sanford-burnham medical research institute", "Sanford Burnham Prebys Medical Discovery Institute" ],
+  "sites" : [ {
+    "isni" : "0000000404732612",
+    "n" : "Sanford-Burnham Medical Research Institute at Lake Nona"
+  }, {
+    "isni" : "0000000404636815",
+    "n" : "Sanford-Burnham Medical Research Institute at UCSB"
+  }, {
+    "isni" : "0000000460204478",
+    "n" : "Sanford Burnham Prebys Medical Discovery Institute Orlando"
+  }, {
+    "isni" : "0000000101638573",
+    "n" : "Sanford Burnham Prebys Medical Discovery Institute"
+  } ]
+}, {
+  "names" : [ "university of massachusetts" ],
+  "sites" : [ {
+    "isni" : "0000000121665835",
+    "n" : "University of Massachusetts Amherst"
+  }, {
+    "isni" : "0000000403863207",
+    "n" : "University of Massachusetts Boston"
+  }, {
+    "isni" : "0000000096201122",
+    "n" : "University of Massachusetts Lowell"
+  }, {
+    "isni" : "0000000403936103",
+    "n" : "University of Massachusetts Lowell - South Campus"
+  }, {
+    "isni" : "0000000121849220",
+    "n" : "University of Massachusetts System"
+  } ]
+}, {
+  "names" : [ "mayo clinic cancer center", "mayo clinic cancer center" ],
+  "sites" : [ {
+    "isni" : "0000000403995971",
+    "n" : "Mayo Clinic Cancer Center Scottsdale"
+  } ]
+}, {
+  "names" : [ "national institute of standards and technology" ],
+  "sites" : [ {
+    "isni" : "0000000406479585",
+    "n" : "NIST Boulder Laboratories"
+  } ]
+}, {
+  "names" : [ "mayo clinic school of medicine", "mayo medical school" ],
+  "sites" : [ {
+    "isni" : "0000000096110810",
+    "n" : "Mayo Clinic School of Medicine"
+  }, {
+    "isni" : "000000046090970X",
+    "n" : "Mayo Clinic School of Medicine - Scottsdale Campus"
+  } ]
+}, {
+  "names" : [ "arkansas state university" ],
+  "sites" : [ {
+    "isni" : "0000000419369369",
+    "n" : "Arkansas State University"
+  }, {
+    "isni" : "0000000406055782",
+    "n" : "Arkansas State University - Beebe"
+  }, {
+    "isni" : "0000000403925754",
+    "n" : "Arkansas State University - Beebe Searcy Campus"
+  }, {
+    "isni" : "0000000406055897",
+    "n" : "Arkansas State University - Mountain Home"
+  }, {
+    "isni" : "0000000406055977",
+    "n" : "Arkansas State University - Newport"
+  }, {
+    "isni" : "0000000403925607",
+    "n" : "Arkansas State University - Newport Jonesboro Campus"
+  }, {
+    "isni" : "0000000403925535",
+    "n" : "Arkansas State University - Newport Marked Tree Campus"
+  }, {
+    "isni" : "0000000403926036",
+    "n" : "Arkansas State University - Paragould Campus"
+  }, {
+    "isni" : "0000000405251888",
+    "n" : "Arkansas State University Mid-South"
+  }, {
+    "isni" : "000000040487002X",
+    "n" : "Arkansas State University System"
+  } ]
+}, {
+  "names" : [ "southern illinois university" ],
+  "sites" : [ {
+    "isni" : "0000000419367742",
+    "n" : "Southern Illinois University Carbondale"
+  }, {
+    "isni" : "0000000108164489",
+    "n" : "Southern Illinois University Edwardsville"
+  }, {
+    "isni" : "0000000110902313",
+    "n" : "Southern Illinois University System"
+  } ]
+}, {
+  "names" : [ "Memorial Sloan-Kettering Cancer Center", "Memorial Sloan Kettering Cancer Center" ],
+  "sites" : [ {
+    "isni" : "0000000403960998",
+    "n" : "Memorial Sloan-Kettering Cancer Center - Basking Ridge"
+  }, {
+    "isni" : "0000000121719952",
+    "n" : "Memorial Sloan Kettering Cancer Center"
+  } ]
+}, {
+  "names" : [ "university of nevada" ],
+  "sites" : [ {
+    "isni" : "0000000093530836",
+    "n" : "University of Nevada Cooperative Extension"
+  }, {
+    "isni" : "0000000108066926",
+    "n" : "University of Nevada Las Vegas"
+  }, {
+    "isni" : "000000041936914X",
+    "n" : "University of Nevada Reno"
+  } ]
+}, {
+  "names" : [ "louisiana state university" ],
+  "sites" : [ {
+    "isni" : "0000000106655823",
+    "n" : "Louisiana State University System"
+  }, {
+    "isni" : "0000000094742953",
+    "n" : "Louisiana State University at Alexandria"
+  }, {
+    "isni" : "0000000419370036",
+    "n" : "Louisiana State University at Eunice"
+  }, {
+    "isni" : "0000000122953740",
+    "n" : "Louisiana State University in Shreveport"
+  } ]
+}, {
+  "names" : [ "ohio state university" ],
+  "sites" : [ {
+    "isni" : "0000000406093594",
+    "n" : "Ohio State University - Lima Campus"
+  }, {
+    "isni" : "0000000406337763",
+    "n" : "Ohio State University - Marion Campus"
+  }, {
+    "isni" : "000000040633794X",
+    "n" : "Ohio State University - Newark Campus"
+  }, {
+    "isni" : "0000000404426105",
+    "n" : "Ohio State University Extension - Huron County"
+  }, {
+    "isni" : "0000000404909473",
+    "n" : "Ohio State University Extension - Northeast Region"
+  }, {
+    "isni" : "0000000406337640",
+    "n" : "Ohio State University at Mansfield"
+  } ]
+}, {
+  "names" : [ "mercer university" ],
+  "sites" : [ {
+    "isni" : "0000000404308440",
+    "n" : "Mercer University - Atlanta Campus"
+  }, {
+    "isni" : "0000000404308512",
+    "n" : "Mercer University - Savannah Campus"
+  } ]
+} ]

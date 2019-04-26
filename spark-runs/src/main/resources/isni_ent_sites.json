@@ -1,0 +1,124 @@
+[
+  {
+    "names": [ "Janssen Research and Development", "Janssen Research & Development" ],
+    "siteNames": [
+      "Janssen Research and Development Spring House",
+      "Janssen Research and Development Los Angeles",
+      "Janssen Research and Development Titusville",
+      "Janssen Research and Development La Jolla"
+    ]
+  },
+  {
+    "names": [ "Mayo Clinic" ],
+    "siteNames": [
+      "Mayo Clinic Minnesota",
+      "Mayo Clinic Arizona",
+      "Mayo Clinic's Campus in Florida"
+    ]
+  },
+  {
+    "names": [ "University of Hawaii" ],
+    "siteNames": [
+      "University of Hawaii Maui College",
+      "University of Hawaii West Oahu",
+      "University of Hawaii System",
+      "University of Hawaii at Hilo"
+    ]
+  },
+  {
+    "names": [ "University of Georgia" ],
+    "siteNames": [
+      "University of Georgia - Gwinnett Campus",
+      "University of Georgia College of Agricultural and Environmental Sciences - Tifton Campus"
+    ]
+  },
+  {
+    "names": [ "University of Texas Medical Branch" ],
+    "siteNames": [
+      "University of Texas Medical Branch at Galveston"
+    ]
+  },
+  {
+    "names": [ "State University of New York" ],
+    "siteNames": [
+      "State University of New York at Binghamton",
+      "State University of New York at Buffalo",
+      "State University of New York at Stony Brook"
+    ]
+  },
+  {
+    "names": [ "Rutgers University" ],
+    "siteNames": [
+      "Rutgers University - George H. Cook Campus",
+      "Rutgers University - Douglass Campus",
+      "Rutgers University - Busch Campus",
+      "Rutgers University - Livingston Campus"
+    ]
+  },
+  {
+    "names": [ "Loyola University" ],
+    "siteNames": [
+      "Loyola University New Orleans",
+      "Loyola University Chicago",
+      "Loyola University Maryland"
+    ]
+  },
+  {
+    "names": [ "University at Buffalo" ],
+    "siteNames": [
+      "University at Buffalo - Downtown Campus",
+      "University at Buffalo - North Campus"
+    ]
+  },
+  {
+    "names": [ "California State University" ],
+    "siteNames": [
+      "California State University Fullerton",
+      "California State University Long Beach"
+    ]
+  },
+  {
+    "names": [ "University of Wisconsin" ],
+    "siteNames": [
+      "University of Wisconsin Oshkosh",
+      "University of Wisconsin Superior",
+      "University of Wisconsin System",
+      "University of Wisconsin Barron County",
+      "University of Wisconsin Fox Valley",
+      "University of Wisconsin Manitowoc",
+      "University of Wisconsin Marathon County",
+      "University of Wisconsin Marinette",
+      "University of Wisconsin Waukesha"
+    ]
+  },
+  {
+    "names": [ "University of Missouri" ],
+    "siteNames": [
+      "University of Missouri Columbia",
+      "University of Missouri Kansas City"
+    ]
+  },
+  {
+    "names": [ "University of North Carolina" ],
+    "siteNames": [
+      "University of North Carolina at Chapel Hill",
+      "University of North Carolina at Asheville",
+      "University of North Carolina at Charlotte",
+      "University of North Carolina at Greensboro",
+      "University of North Carolina at Pembroke",
+      "University of North Carolina at Wilmington"
+    ]
+  },
+  {
+    "names": [ "University of California" ],
+    "siteNames": [
+      "University of California San Diego",
+      "University of California Berkeley",
+      "University of California Davis",
+      "University of California San Francisco",
+      "University of California Santa Barbara",
+      "University of California Santa Cruz",
+      "University of California Riverside"
+    ]
+  }
+]

@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE PubmedArticleSet SYSTEM "http://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+    <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29151804</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1380-3743</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>37</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular breeding : new strategies in plant improvement</Title>
+                <ISOAbbreviation>Mol. Breed.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Combining drought and submergence tolerance in rice: marker-assisted breeding and QTL combination effects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>143</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11032-017-0737-2</ELocationID>
+            <Abstract>
+                <AbstractText>TDK1 is a popular rice variety from the Lao PDR. Originally developed for irrigated conditions, this variety suffers a high decline in yield under drought conditions. Studies have identified three quantitative trait loci (QTLs) for grain yield under drought conditions, <i>qDTY</i><sub><i>3.1</i></sub> , <i>qDTY</i><sub><i>6.1</i></sub> , and <i>qDTY</i><sub><i>6.2</i></sub> , that show a high effect in the background of this variety. We report here the pyramiding of these three QTLs with <i>SUB1</i> that provides 2-3 weeks of tolerance to complete submergence, with the aim to develop drought- and submergence-tolerant near-isogenic lines (NILs) of TDK1. We used a tandem approach that combined marker-assisted backcross breeding with phenotypic selection to develop NILs with high yield under drought stress and non-stress conditions and preferred grain quality. The effect of different QTL combinations on yield and yield-related traits under drought stress and non-stress conditions is also reported. Our results show <i>qDTY</i><sub><i>3.1</i></sub> to be the largest and most consistent QTL affecting yield under drought conditions, followed by <i>qDTY</i><sub><i>6.1</i></sub> and <i>qDTY</i><sub><i>6.2</i></sub> , respectively. QTL class analysis also showed that lines with a combination of <i>qDTY</i><sub><i>3.1</i></sub> and <i>qDTY</i><sub><i>6.1</i></sub> consistently showed a higher tolerance to drought than those in which one of these QTLs was missing. In countries such as Lao PDR, where large areas under rice cultivation suffer vegetative-stage submergence and reproductive-stage drought, these lines could ensure yield stability. These lines can also serve as valuable genetic material to be used for further breeding of high-yielding, drought- and submergence-tolerant varieties in local breeding programs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dixit</LastName>
+                    <ForeName>Shalabh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Anshuman</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Rani Lakshmi Bai Central Agriculture University, Jhansi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sandhu</LastName>
+                    <ForeName>Nitika</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhandari</LastName>
+                    <ForeName>Aditi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vikram</LastName>
+                    <ForeName>Prashant</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>International Maize and Wheat Improvement Center (CIMMYT), Km. 45, Carretera México-Veracruz, El Batán, 56237 Texcoco, CP Mexico.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 2289 885X</Identifier>
+                        <Identifier Source="GRID">grid.433436.5</Identifier>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Arvind</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Rice Research Institute (IRRI), DAPO Box 7777, Metro Manila, Philippines.</Affiliation>
+                        <Identifier Source="ISNI">0000 0001 0729 330X</Identifier>
+                        <Identifier Source="GRID">grid.419387.0</Identifier>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mol Breed</MedlineTA>
+            <NlmUniqueID>9506703</NlmUniqueID>
+            <ISSNLinking>1380-3743</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hered. 2008 Mar-Apr;99(2):232-6</RefSource>
+                <PMID Version="1">18222930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2015 Aug 05;16:86</RefSource>
+                <PMID Version="1">26243626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Aug 20;460(7258):1026-30</RefSource>
+                <PMID Version="1">19693083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2016 Jan 27;17:30</RefSource>
+                <PMID Version="1">26818269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2013 Feb 26;14:12</RefSource>
+                <PMID Version="1">23442150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2013 Sep;45(9):1097-102</RefSource>
+                <PMID Version="1">23913002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Appl Genet. 2009 Dec;120(1):177-90</RefSource>
+                <PMID Version="1">19841886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2014 May 27;15:63</RefSource>
+                <PMID Version="1">24885990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Plant Genomics. 2012;2012:949038</RefSource>
+                <PMID Version="1">23326259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rice (N Y). 2016 Dec;9(1):21</RefSource>
+                <PMID Version="1">27164982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2015 Oct 28;5:15183</RefSource>
+                <PMID Version="1">26507552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Appl Genet. 2006 Jul;113(2):361-8</RefSource>
+                <PMID Version="1">16791702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013 May 08;8(5):e62795</RefSource>
+                <PMID Version="1">23667521</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Oct 14;9(10):e109574</RefSource>
+                <PMID Version="1">25314587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Bot. 2014 Nov;65(21):6265-78</RefSource>
+                <PMID Version="1">25205576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2011 Oct 18;12:89</RefSource>
+                <PMID Version="1">22008150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Appl Genet. 2007 Oct;115(6):767-76</RefSource>
+                <PMID Version="1">17657470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genet. 2014 Feb 03;15:16</RefSource>
+                <PMID Version="1">24491154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Appl Genet. 2012 Jun;125(1):155-69</RefSource>
+                <PMID Version="1">22361948</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Drought</Keyword>
+            <Keyword MajorTopicYN="N">MABB</Keyword>
+            <Keyword MajorTopicYN="N">QTL</Keyword>
+            <Keyword MajorTopicYN="N">Rice</Keyword>
+            <Keyword MajorTopicYN="N">Submergence</Keyword>
+            <Keyword MajorTopicYN="N">Yield</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29151804</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11032-017-0737-2</ArticleId>
+            <ArticleId IdType="pii">737</ArticleId>
+            <ArticleId IdType="pmc">PMC5670188</ArticleId>
+        </ArticleIdList>
+        <?pmcsd ?>
+    </PubmedData>
+</PubmedArticle>
+<PubmedArticle>
+<MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+    <PMID Version="1">29151805</PMID>
+    <DateRevised>
+        <Year>2017</Year>
+        <Month>11</Month>
+        <Day>20</Day>
+    </DateRevised>
+    <Article PubModel="Print-Electronic">
+        <Journal>
+            <ISSN IssnType="Print">1386-4157</ISSN>
+            <JournalIssue CitedMedium="Print">
+                <Volume>20</Volume>
+                <Issue>4</Issue>
+                <PubDate>
+                    <Year>2017</Year>
+                </PubDate>
+            </JournalIssue>
+            <Title>Experimental economics</Title>
+            <ISOAbbreviation>Exp Econ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Transparency and cooperation in repeated dilemma games: a meta study.</ArticleTitle>
+        <Pagination>
+            <MedlinePgn>755-771</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10683-017-9517-4</ELocationID>
+        <Abstract>
+            <AbstractText>We use data from experiments on finitely repeated dilemma games with fixed matching to investigate the effect of different types of information on cooperation. The data come from 71 studies using the voluntary contributions paradigm, covering 122 data points, and from 18 studies on decision-making in oligopoly, covering another 50 data points. We find similar effects in the two sets of experimental games. We find that transparency about what everyone in a group earns reduces contributions to the public good, as well as the degree of collusion in oligopoly markets. In contrast, transparency about choices tends to lead to an increase in contributions and collusion, although the size of this effect varies somewhat between the two settings. Our results are potentially useful for policy making, because they provide guidance on the type of information to target in order to stimulate or limit cooperation.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+            <Author ValidYN="Y">
+                <LastName>Fiala</LastName>
+                <ForeName>Lenka</ForeName>
+                <Initials>L</Initials>
+                <AffiliationInfo>
+                    <Affiliation>CentER, TILEC, Tilburg University, Tilburg, The Netherlands.</Affiliation>
+                    <Identifier Source="ISNI">0000 0001 0943 3265</Identifier>
+                    <Identifier Source="GRID">grid.12295.3d</Identifier>
+                </AffiliationInfo>
+            </Author>
+            <Author ValidYN="Y">
+                <LastName>Suetens</LastName>
+                <ForeName>Sigrid</ForeName>
+                <Initials>S</Initials>
+                <Identifier Source="ORCID">0000-0001-6168-6059</Identifier>
+                <AffiliationInfo>
+                    <Affiliation>CentER, TILEC, Tilburg University, Tilburg, The Netherlands.</Affiliation>
+                    <Identifier Source="ISNI">0000 0001 0943 3265</Identifier>
+                    <Identifier Source="GRID">grid.12295.3d</Identifier>
+                </AffiliationInfo>
+            </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+            <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </ArticleDate>
+    </Article>
+    <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Exp Econ</MedlineTA>
+        <NlmUniqueID>101697134</NlmUniqueID>
+        <ISSNLinking>1386-4157</ISSNLinking>
+    </MedlineJournalInfo>
+    <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cooperation</Keyword>
+        <Keyword MajorTopicYN="N">Information</Keyword>
+        <Keyword MajorTopicYN="N">Laboratory experiment</Keyword>
+        <Keyword MajorTopicYN="N">Metastudy</Keyword>
+        <Keyword MajorTopicYN="N">Repeated game</Keyword>
+    </KeywordList>
+</MedlineCitation>
+<PubmedData>
+    <History>
+        <PubMedPubDate PubStatus="received">
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+            <Hour>6</Hour>
+            <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+            <Hour>6</Hour>
+            <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+            <Hour>6</Hour>
+            <Minute>1</Minute>
+        </PubMedPubDate>
+    </History>
+    <PublicationStatus>ppublish</PublicationStatus>
+    <ArticleIdList>
+        <ArticleId IdType="pubmed">29151805</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10683-017-9517-4</ArticleId>
+        <ArticleId IdType="pii">9517</ArticleId>
+        <ArticleId IdType="pmc">PMC5665965</ArticleId>
+    </ArticleIdList>
+    <?pmcsd ?>
+</PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

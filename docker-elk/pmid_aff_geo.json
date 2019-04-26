@@ -1,0 +1,12 @@
+{
+  "index_patterns": [ "pmid_aff_geo*" ],
+  "mappings": {
+  	"doc": {
+    	"properties": {
+          "location": {
+            "type": "geo_point"
+          }
+        }
+     }
+  }
+}
